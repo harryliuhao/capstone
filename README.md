@@ -20,3 +20,7 @@ https://github.com/kbenoit/quanteda/issues/46
 1. Sentence detect accomplished with quanteda package
 2. data cleaning and tokenization dramatically quickened using quanteda package. Expanding to SparseMatrix no longer causes memory issue.
 3. 50% sample only takes 20 mins. It will be possible to process the entire doc if necessary.
+
+##Next steps
+* how to aggregate dfm into a frequency, so it can be formatted into a dictionary
+* or dfm can be used directly for textmodels
