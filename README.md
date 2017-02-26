@@ -1,6 +1,9 @@
 ## links I researched to build the n-gram model
 https://github.com/j-wang/DataScienceCapstone/blob/master/final/TestingModels.Rmd
 https://rpubs.com/LL8054/MilestoneReport
+http://rpubs.com/bhaskarp/137200
+https://www.kaggle.com/enrique1500/integer-sequence-learning/predict-oeis-with-ngrams-1
+https://github.com/kbenoit/quanteda/issues/46
 
 ##Note 2/20/2017
 ###Statistics from 50% sample 
