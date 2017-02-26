@@ -24,3 +24,4 @@ https://github.com/kbenoit/quanteda/issues/46
 ##Next steps
 * how to aggregate dfm into a frequency, so it can be formatted into a dictionary
 * or dfm can be used directly for textmodels
+* ngrams may need to be separated before Markov backoff model can be appled. Right now I have different levels of ngrams in one dataset
