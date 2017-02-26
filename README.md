@@ -25,3 +25,8 @@ https://github.com/kbenoit/quanteda/issues/46
 * how to aggregate dfm into a frequency, so it can be formatted into a dictionary
 * or dfm can be used directly for textmodels
 * ngrams may need to be separated before Markov backoff model can be appled. Right now I have different levels of ngrams in one dataset
+* use topfeatures to extract the frequency table
+* build the table to split n-grams to (n-1) grams + predicted word
+* save the table on harddrive for prediction program
+* modify the program to apply one sentence for testing dataset
+* Predict
